@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    margin: 60px auto;
+    width: 30rem;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    text-align: center;
+    height: 650px;
+    
+}
+.card-cont{
+    border-top-right-radius: 10px;
+    margin-bottom: 30px;
+}
+.hero{
+    width: 30rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.parrafo{
+    margin-bottom: 30px;
+}
+.Xd{
+    width: 18rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(228, 226, 226, 0.493);
+    border-radius: 20px;
+    padding: 10px 5px 10px 5px;
+    margin: auto;
+}
+
+.btn2{
+    width: 250px;
+    margin-top: 20px;
+    padding: 1rem;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(118, 85, 238);
+    color: white;
+    cursor: pointer;
+
+}
+.btn1{
+    width: 250px;
+    margin-top: 20px;
+    padding: 1rem;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(118, 85, 238);
+    color: white;
+    cursor: pointer;
+
+}
